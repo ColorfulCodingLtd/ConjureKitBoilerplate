@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Samples/Auki Labs ConjureKit Ur Module/0.5.16/Demo/Scenes/Main.unity
+    path: Assets/Scenes/Main.unity
     guid: c46b46c87072e424b92b69d757143778
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b09bb8c3351bc47408ba77e479259e4e, type: 2}
